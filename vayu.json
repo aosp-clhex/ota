@@ -1,0 +1,19 @@
+{
+	"response": [
+		{
+			"maintainer": "clhexftw",
+			"oem": "Poco",
+			"device": "Poco X3 Pro",
+			"filename": "Aosp-t-vayu-20230713-GAPPS.zip",
+			"download": "https://store2.gofile.io/download/ee077adf-1482-4ab0-beac-371b7570167a/Aosp-t-vayu-20230713-GAPPS.zip",
+			"timestamp": 1688020691,
+			"md5": "77565c197aa8e0ec3742a13fd0dfa842",
+			"sha256": "60c4b96a68336356b449c4a7d8a8cd0adba19a7008b99e039436c36261969003",
+			"version": "t",
+			"firmware": "https://sourceforge.net/projects/crdroid/files/vayu/9.x/firmware/fw_vayu_bhima_V14.0.3.0.TJUMIXM.zip/download",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+		}
+	]
+}
