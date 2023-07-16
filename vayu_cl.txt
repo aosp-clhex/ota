@@ -12,6 +12,5 @@ Allow to Disable Data disabled icon
 Allow settings luminance, backgroud color , Accent Backgroud color and tint background in monet settings
 Allow to change network traffic location in statusbar
 Add statusbar clock customisation settings
-
-Notes:-
-Ota has been intergated from now on XD
+Ota has been intergated from now
+Misc fixes and Improvement
