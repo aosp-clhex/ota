@@ -1,16 +1,18 @@
 Device Changelog :-
-Add per app refresh rate
-Use adreno and perf from qcom common
-Address sepolicy denails
-Merge Tag LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0 in kernel
-Misc Fixes and Improvement
+Define OEM fast charge sysfs node 
+rootdir: Move background cpuset to CPU0-1 
+Fix Second sim calls
+build xiaomi sensor impl
+Misc fixes and improvement
 
 Source Changelog :-
-Redesign about phone
-Add Battery Light Settings
-Allow to Disable Data disabled icon
-Allow settings luminance, backgroud color , Accent Backgroud color and tint background in monet settings
-Allow to change network traffic location in statusbar
-Add statusbar clock customisation settings
-Ota has been intergated from now
-Misc fixes and Improvement
+August Security Patch
+Introduce Sleep Mode
+Add more fonts
+Add Gms Switch
+Add Fingerprint Vibration settings
+Expose running apps in apps.xml
+Reorganize some preferences
+Add QS Header Images
+Gamespace: Add lock gesture tile and redesign panel view
+Misc fixes and improvement
