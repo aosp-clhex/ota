@@ -1,5 +1,4 @@
 Device Changelog :-
-Define OEM fast charge sysfs node 
 rootdir: Move background cpuset to CPU0-1 
 Fix Second sim calls
 build xiaomi sensor impl
