@@ -9,3 +9,6 @@ Launcher3: Implement Quickspace
 Added fps info tile
 Added cpu info tile
 Misc fixes and improvement
+
+Notes :-
+Only https://t.me/clhex_blog/290 recovery is supported
