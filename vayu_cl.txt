@@ -1,17 +1,11 @@
 Device Changelog :-
-rootdir: Move background cpuset to CPU0-1 
-Fix Second sim calls
-build xiaomi sensor impl
+Move to erofs
+Import poweroff alarm blobs from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12
 Misc fixes and improvement
 
 Source Changelog :-
-August Security Patch
-Introduce Sleep Mode
-Add more fonts
-Add Gms Switch
-Add Fingerprint Vibration settings
-Expose running apps in apps.xml
-Reorganize some preferences
-Add QS Header Images
-Gamespace: Add lock gesture tile and redesign panel view
+Switch to omnijaws from smartspace
+Launcher3: Implement Quickspace
+Added fps info tile
+Added cpu info tile
 Misc fixes and improvement
