@@ -1,13 +1,11 @@
 Device Changelog :-
-Move to erofs
-Import poweroff alarm blobs from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12
-Misc fixes and improvement
+Merge tag LA.UM.9.1.r1-13900-SMxxx0.QSSI13.0 in kernel
 
 Source Changelog :-
-Switch to omnijaws from smartspace
-Launcher3: Implement Quickspace
-Added fps info tile
-Added cpu info tile
+Add Option for Combined Signal Icons
+PixelPropUtils: Un-spoof GMS while adding google account 
+Cleanup Conflicting icon pack overlays
+Drop Asi and Move to aosp dialer (Gapps Build)
 Misc fixes and improvement
 
 Notes :-
